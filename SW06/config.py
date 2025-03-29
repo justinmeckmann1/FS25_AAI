@@ -2,12 +2,11 @@
 #######################################################################################
 
 # Select Usecase
-USECASE = "CIFAR"  # MNIST | CIFAR --> für arbeit CIFAR
+USECASE = "CIFAR"  # MNIST | CIFAR
 
 # Select optimization metric to be used for EAS
 allowed_optim_metric = ["macs", "acc", "macs_and_acc"]
-optim_metric = "macs_and_acc" # so lassen
-
+optim_metric = "macs"  # macs | acc | macs_and_acc
 # Power-user parameters (do not change)
 DEBUG = False
 Save_init_population = False
@@ -33,7 +32,7 @@ if USECASE == "MNIST":
     acc_lim_step_hight = 0.01
 
     ##### Evolution parameters #######################################################
-    pop_size                   = 4
+    pop_size                   = 4 
     nbr_of_evo_rounds          = 3 
     nbr_of_parents             = 1 
     nbr_of_children_per_parent = 2
@@ -127,25 +126,25 @@ if USECASE == "CIFAR":
 
     ##### Search space constraints ###################################################
     # Complexity constraints (checked with each mutation)
-    max_mac            = 5*10**6                                                     # <---- ToDo
-    max_param          = 0.5*10**6                                                     # <---- ToDo
+    max_mac            = 6*10**6                                                       # 0*10**6
+    max_param          = 3*10**6                                                       # 0*10**6
     # Dynamic accuracy limit (checked during reinsertion)
-    acc_lim_init       = 0.78                                                           # <---- ToDo
+    acc_lim_init       = 0.78                                                          #0
     acc_lim_step_time  = 1      
     acc_lim_step_hight = 0.01
 
     ##### Evolution parameters #######################################################
-    pop_size                   = 1
-    nbr_of_evo_rounds          = 0 
+    pop_size                   = 10 #10
+    nbr_of_evo_rounds          = 4 #4
     nbr_of_parents             = 3 
     nbr_of_children_per_parent = 2
 
     ##### Ranking parameters #########################################################
     # 2D-Gaussian function parameters (used with metric "macs_and_acc")
-    mu_acc    = 99          # expected value accuracy [%]                             # <---- ToDo
-    sigma_acc = 3.5          # standard deviation accuracy [%]                         # <---- ToDo
-    mu_mac    = 0.3*10**6    # expected value # of MACs                                # <---- ToDo
-    sigma_mac = 1.4*10**6    # standard deviation # of MACs                            # <---- ToDo
+    mu_acc    = 78          # expected value accuracy [%]                              #0
+    sigma_acc = 3.5          # standard deviation accuracy [%]                         #0
+    mu_mac    = 0.3*10**6    # expected value # of MACs                                #0*10**6
+    sigma_mac = 1.4*10**6    # standard deviation # of MACs                            #0*10**6
 
     ##### Training parameters ########################################################
     # General parameters
