@@ -1,0 +1,3 @@
+New DNA Log: 2025-03-27 13:43:31
+dna_id,parent_dna_id,generation,nbr_total_mutations,max_val_acc,nbr_of_macs,nbr_of_param,nbr_of_epochs
+12,10,0,1,0.9369999766349792,2440960,34826,4

@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------
+Best networks by accuracy only:
+1: DNA 12: Acc=0.9369999766349792 with 2440960 MACs and 34826 parameters, Generation 0 with 1 mutations
+------------------------------------------------------------------------------
+Best networks by number of MACs only:
+DNA 12: Acc=0.9369999766349792 with 2440960 MACs and 34826 parameters, Generation 0 with 1 mutations
+------------------------------------------------------------------------------
+Best networks by number of MACs with accuracy of min. 0.94:
+------------------------------------------------------------------------------

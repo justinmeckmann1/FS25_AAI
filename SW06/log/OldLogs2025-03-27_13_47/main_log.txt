@@ -1,0 +1,103 @@
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:30:35
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 1 to 1 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 1 candidates.
+Evolution round 1 started.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:31:04
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 1 to 2 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 1 candidates.
+Evolution round 1 started.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:32:50
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:33:52
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:35:40
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:41:20
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 4. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 1 to 2 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 4 candidates.
+Evolution round 1 started.
+Acc Limit = 0.9 in Evolution round 1
+Evolution round 1 finished. Population size: 4
+-------------------------------------------------------
+2025-03-27 13:42:16-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.91 in Evolution round 2
+Evolution round 2 finished. Population size: 4
+-------------------------------------------------------
+2025-03-27 13:42:39-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.92 in Evolution round 3
+Evolution round 3 finished. Population size: 4
+-------------------------------------------------------
+2025-03-27 13:43:09-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:43:31
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 4. Starting initial training.

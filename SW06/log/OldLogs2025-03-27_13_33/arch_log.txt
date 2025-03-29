@@ -1,0 +1,3 @@
+
+-------------------------------------------------------
+ID 0:___C{'nbr_of_filters': 32, 'kernel_size': 3, 'stride': 1, 'padding': 'valid', 'use_bias': True, 'activation_type': 'relu', 'hasBN': False, 'hasDropOut': False, 'dropout_rate': 0.5}___P{'pool_size': 2, 'stride': 2, 'padding': 'valid'}___C{'nbr_of_filters': 64, 'kernel_size': 3, 'stride': 1, 'padding': 'valid', 'use_bias': True, 'activation_type': 'relu', 'hasBN': False, 'hasDropOut': False, 'dropout_rate': 0.5}___P{'pool_size': 2, 'stride': 2, 'padding': 'valid'}___F{}___Drop{'dropout_rate': 0.5}___D{'nbr_of_neurons': 10, 'use_bias': True, 'activation_type': 'softmax', 'hasDropOut': False, 'dropout_rate': 0.5}

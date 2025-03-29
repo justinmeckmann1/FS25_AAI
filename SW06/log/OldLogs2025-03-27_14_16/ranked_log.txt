@@ -1,0 +1,6 @@
+
+-------------------------------------------------------
+New Population with Rank and Fitness Log: 2025-03-27 13:47:15
+End of round 0 - DNAs ranked in Population: [Rank:1 ID:3 Fitness:1.00 	Rank:2 ID:1 Fitness:1.00 	Rank:3 ID:0 Fitness:1.00 	Rank:4 ID:2 Fitness:1.00 	]
+End of round 1 - DNAs ranked in Population: [Rank:1 ID:1 Fitness:0.50 	Rank:2 ID:0 Fitness:0.83 	Rank:3 ID:2 Fitness:1.17 	Rank:4 ID:5 Fitness:1.50 	]
+End of round 2 - DNAs ranked in Population: [Rank:1 ID:7 Fitness:0.00 	Rank:2 ID:6 Fitness:0.67 	Rank:3 ID:2 Fitness:1.33 	Rank:4 ID:5 Fitness:2.00 	]

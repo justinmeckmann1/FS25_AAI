@@ -1,0 +1,41 @@
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:30:35
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 1 to 1 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 1 candidates.
+Evolution round 1 started.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:31:04
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 1 to 2 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 1 candidates.
+Evolution round 1 started.
+
+-------------------------------------------------------
+New Log: 2025-03-27 13:32:50
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
