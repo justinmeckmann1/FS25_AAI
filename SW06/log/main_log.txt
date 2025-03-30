@@ -142,3 +142,1078 @@ Usecase CIFAR - Architecture Kaggle loaded
 Estimated runtime for full EA is 10 to 15 mins.
 -------------------------------------------------------
 Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 12:38:09
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 10. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 5 to 7 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 10 candidates.
+Evolution round 1 started.
+Acc Limit = 0.78 in Evolution round 1
+Evolution round 1 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:44:20-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.79 in Evolution round 2
+Evolution round 2 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:45:21-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8 in Evolution round 3
+Evolution round 3 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:46:19-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.81 in Evolution round 4
+Evolution round 4 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:47:15-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-29 12:50:44
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 10. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 5 to 8 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 10 candidates.
+Evolution round 1 started.
+Acc Limit = 0.78 in Evolution round 1
+Evolution round 1 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:55:42-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.79 in Evolution round 2
+Evolution round 2 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 12:58:38-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8 in Evolution round 3
+Evolution round 3 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 13:00:04-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.81 in Evolution round 4
+Evolution round 4 finished. Population size: 10
+-------------------------------------------------------
+2025-03-29 13:00:53-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:30:16
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:31:00
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:32:38
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:41:45
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:43:33
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:44:02
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:45:00
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:51:53
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:52:27
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:53:15
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:54:04
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:55:33
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:56:28
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:57:19
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:58:17
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 13:59:04
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:00:08
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:01:13
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:03:33
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:06:13
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:07:03
+Maximum MACs allowed: 3500000.0 - Maximum parameters allowed: 100000.0
+Usecase MNIST - data prepared
+Usecase MNIST - Architecture Keras loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 4. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 3 rounds with a population size of 4 candidates.
+Evolution round 1 started.
+Acc Limit = 0.9 in Evolution round 1
+Evolution round 1 finished. Population size: 4
+-------------------------------------------------------
+2025-03-29 14:07:13-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.91 in Evolution round 2
+Evolution round 2 finished. Population size: 4
+-------------------------------------------------------
+2025-03-29 14:07:16-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.92 in Evolution round 3
+Evolution round 3 finished. Population size: 4
+-------------------------------------------------------
+2025-03-29 14:07:19-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:11:59
+Maximum MACs allowed: 600000.0 - Maximum parameters allowed: 300000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:13:25
+Maximum MACs allowed: 600000.0 - Maximum parameters allowed: 300000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:15:17
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:16:15
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:17:42
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:18:29
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:19:22
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:20:45
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:25:51
+Maximum MACs allowed: 6000.0 - Maximum parameters allowed: 3000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:26:52
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:27:50
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:36:30
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:38:11
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-29 14:40:32
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:06:11
+Maximum MACs allowed: 20000.0 - Maximum parameters allowed: 10000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:08:29
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:10:02
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 33000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:14:36
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:18:13
+Maximum MACs allowed: 6000000 - Maximum parameters allowed: 3000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 4 to 6 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.7 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:20:27-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.71 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:21:40-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.72 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:23:28-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.73 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:26:38-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:35:05
+Maximum MACs allowed: 60000.0 - Maximum parameters allowed: 30000.0
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:36:43
+Maximum MACs allowed: 15000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:47:35
+Maximum MACs allowed: 15000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 4 to 6 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.7 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:49:22-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.71 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:50:31-------------------------------------------------------
+Evolution round 3 started.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:51:41
+Maximum MACs allowed: 15000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 4 to 6 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:53:36-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:54:29-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:55:20-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 20:55:59-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:58:09
+Maximum MACs allowed: 15000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+
+-------------------------------------------------------
+New Log: 2025-03-30 20:59:02
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:00:46
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 5 to 7 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:02:44-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:03:54-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:05:14-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:06:25-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:09:07
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:10:01
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:11:23
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:12:28
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:16:00
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:17:05
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:18:04
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:19:12
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:20:31
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:21:30
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 1. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 0 to 0 mins.
+-------------------------------------------------------
+Starting evolution process for 0 rounds with a population size of 1 candidates.
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:23:59
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 6 to 9 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:26:45-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:28:29-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:29:59-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:31:10-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:41:53
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 5 to 7 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.7 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:43:53-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.71 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:45:09-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.72 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:46:22-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.73 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 21:47:40-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 21:57:52
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 4. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 17 to 25 mins.
+-------------------------------------------------------
+Starting evolution process for 10 rounds with a population size of 4 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:00:57-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:02:34-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:04:13-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:05:49-------------------------------------------------------
+Evolution round 5 started.
+Acc Limit = 0.8400000000000001 in Evolution round 5
+Evolution round 5 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:07:16-------------------------------------------------------
+Evolution round 6 started.
+Acc Limit = 0.8500000000000001 in Evolution round 6
+Evolution round 6 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:08:38-------------------------------------------------------
+Evolution round 7 started.
+Acc Limit = 0.8600000000000001 in Evolution round 7
+Evolution round 7 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:09:55-------------------------------------------------------
+Evolution round 8 started.
+Acc Limit = 0.8700000000000001 in Evolution round 8
+Evolution round 8 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:11:05-------------------------------------------------------
+Evolution round 9 started.
+Acc Limit = 0.88 in Evolution round 9
+Evolution round 9 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:11:47-------------------------------------------------------
+Evolution round 10 started.
+Acc Limit = 0.89 in Evolution round 10
+Evolution round 10 finished. Population size: 4
+-------------------------------------------------------
+2025-03-30 22:12:29-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 22:14:56
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 7 to 10 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:17:38-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:19:26-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:21:11-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:23:01-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 22:23:52
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 6 to 10 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:26:32-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:28:16-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:30:03-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:31:21-------------------------------------------------------
+
+-------------------------------------------------------
+New Log: 2025-03-30 22:33:22
+Maximum MACs allowed: 35000000 - Maximum parameters allowed: 1000000
+Usecase CIFAR - data prepared
+Usecase CIFAR - Architecture Kaggle loaded
+>>>>>>>> Basic DNA created
+>>>>>>>> Initial population created. Population count: 3. Starting initial training.
+>>>>>>>> Initial population trained.
+-------------------------------------------------------
+Estimated runtime for full EA is 5 to 7 mins.
+-------------------------------------------------------
+Starting evolution process for 4 rounds with a population size of 3 candidates.
+Evolution round 1 started.
+Acc Limit = 0.8 in Evolution round 1
+Evolution round 1 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:35:20-------------------------------------------------------
+Evolution round 2 started.
+Acc Limit = 0.81 in Evolution round 2
+Evolution round 2 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:36:38-------------------------------------------------------
+Evolution round 3 started.
+Acc Limit = 0.8200000000000001 in Evolution round 3
+Evolution round 3 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:37:54-------------------------------------------------------
+Evolution round 4 started.
+Acc Limit = 0.8300000000000001 in Evolution round 4
+Evolution round 4 finished. Population size: 3
+-------------------------------------------------------
+2025-03-30 22:39:00-------------------------------------------------------

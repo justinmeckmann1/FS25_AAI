@@ -1,4 +1,0 @@
-
--------------------------------------------------------
-New Population Log: 2025-03-27 13:35:40
-End of round 0 - DNAs in Population: [0]

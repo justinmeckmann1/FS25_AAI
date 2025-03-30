@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+Best networks by accuracy only:
+1: DNA 13: Acc=0.8173333406448364 with 34562804 MACs and 346960 parameters, Generation 2 with 3 mutations
+2: DNA 11: Acc=0.8106666803359985 with 31560704 MACs and 293930 parameters, Generation 2 with 2 mutations
+3: DNA 12: Acc=0.8106666803359985 with 31622400 MACs and 355754 parameters, Generation 2 with 2 mutations
+4: DNA 0: Acc=0.8106666803359985 with 0 MACs and 0 parameters, Generation 0 with 0 mutations
+5: DNA 9: Acc=0.8079999685287476 with 29803776 MACs and 306602 parameters, Generation 2 with 1 mutations
+------------------------------------------------------------------------------
+Best networks by number of MACs only:
+DNA 0: Acc=0.8106666803359985 with 0 MACs and 0 parameters, Generation 0 with 0 mutations
+DNA 24: Acc=0.7413333058357239 with 7021824 MACs and 306602 parameters, Generation 4 with 2 mutations
+DNA 21: Acc=0.7393333315849304 with 7365888 MACs and 318570 parameters, Generation 4 with 2 mutations
+DNA 19: Acc=0.7896666526794434 with 8553728 MACs and 290090 parameters, Generation 3 with 3 mutations
+DNA 23: Acc=0.7536666393280029 with 9725184 MACs and 355498 parameters, Generation 4 with 2 mutations
+------------------------------------------------------------------------------
+Best networks by number of MACs with accuracy of min. 0.78:
+DNA 0: Acc=0.8106666803359985 with 0 MACs and 0 parameters, Generation 0 with 0 mutations
+DNA 19: Acc=0.7896666526794434 with 8553728 MACs and 290090 parameters, Generation 3 with 3 mutations
+DNA 10: Acc=0.7820000052452087 with 28083456 MACs and 355754 parameters, Generation 2 with 1 mutations
+DNA 1: Acc=0.7863333225250244 with 29459712 MACs and 515178 parameters, Generation 0 with 1 mutations
+DNA 4: Acc=0.7866666316986084 with 29459712 MACs and 515178 parameters, Generation 1 with 2 mutations
+------------------------------------------------------------------------------

@@ -32,8 +32,8 @@ if USECASE == "MNIST":
     acc_lim_step_hight = 0.01
 
     ##### Evolution parameters #######################################################
-    pop_size                   = 4 
-    nbr_of_evo_rounds          = 3 
+    pop_size                   = 1 
+    nbr_of_evo_rounds          = 0 
     nbr_of_parents             = 1 
     nbr_of_children_per_parent = 2
 
@@ -126,25 +126,24 @@ if USECASE == "CIFAR":
 
     ##### Search space constraints ###################################################
     # Complexity constraints (checked with each mutation)
-    max_mac            = 6*10**6                                                       # 0*10**6
-    max_param          = 3*10**6                                                       # 0*10**6
-    # Dynamic accuracy limit (checked during reinsertion)
-    acc_lim_init       = 0.78                                                          #0
-    acc_lim_step_time  = 1      
-    acc_lim_step_hight = 0.01
+    max_mac            = 35*10**6                                                       # <---- ToDo
+    max_param          = 1*10**6                                                       # <---- ToDo
+    acc_lim_init       = 0.80                                                          # <---- ToDo
+    acc_lim_step_time  = 1      # default 1
+    acc_lim_step_hight = 0.01   # default 0.01
 
     ##### Evolution parameters #######################################################
-    pop_size                   = 10 #10
-    nbr_of_evo_rounds          = 4 #4
+    pop_size                   = 4 #10
+    nbr_of_evo_rounds          = 30 #4
     nbr_of_parents             = 3 
     nbr_of_children_per_parent = 2
 
     ##### Ranking parameters #########################################################
     # 2D-Gaussian function parameters (used with metric "macs_and_acc")
-    mu_acc    = 78          # expected value accuracy [%]                              #0
-    sigma_acc = 3.5          # standard deviation accuracy [%]                         #0
-    mu_mac    = 0.3*10**6    # expected value # of MACs                                #0*10**6
-    sigma_mac = 1.4*10**6    # standard deviation # of MACs                            #0*10**6
+    mu_acc    = 80         # expected value accuracy [%]                            # <---- ToDo
+    sigma_acc = 4      # standard deviation accuracy [%]                        # <---- ToDo
+    mu_mac    = 15*10**6  # expected value # of MACs                               # <---- ToDo
+    sigma_mac = 3*10**6  # standard deviation # of MACs                           # <---- ToDo
 
     ##### Training parameters ########################################################
     # General parameters

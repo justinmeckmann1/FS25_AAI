@@ -1,7 +1,0 @@
-
--------------------------------------------------------
-New Population Log: 2025-03-27 13:47:15
-End of round 0 - DNAs in Population: [1, 2, 0, 3]
-End of round 1 - DNAs in Population: [5, 1, 2, 0]
-End of round 2 - DNAs in Population: [5, 2, 7, 6]
-End of round 3 - DNAs in Population: [5, 8, 2, 9]
