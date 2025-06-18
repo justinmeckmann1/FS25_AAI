@@ -42,12 +42,12 @@ for episode in range(1000):
             action = random.choice(actions)
         else:
             action = np.argmax(q_table[state_index(state)])
-            next_state , reward = step(state, action)
-            old_q = q_table[state_index(state), action ]
-            next_max = np.max(q_table[state_index(next_state)])
-            new_q = old_q + learning_rate*(reward + discount_factor * next_max - old_q)
-            q_table[state_index(state), action] = new_q
-            state = next_state
+        next_state , reward = step(state, action)
+        old_q = q_table[state_index(state), action ]
+        next_max = np.max(q_table[state_index(next_state)])
+        new_q = old_q + learning_rate*(reward + discount_factor * next_max - old_q)
+        q_table[state_index(state), action] = new_q
+        state = next_state
 
 # Final policy output
 levels = ['Low', 'Medium', 'High']
